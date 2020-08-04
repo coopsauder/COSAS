@@ -23,12 +23,24 @@ body, html {
 
 /*_________________________Global____________________________*/
 
+.section {
+    margin: auto auto 5vh auto
+}
 
+.section-header {
+    padding: 3vh 0 3vh 0 
+}
 
 /*_________________________NavSection________________________*/
 
-nav {
-    height: 5vh;
+#navbar {
+    width: 100%;
+    margin-bottom: 0px;
+    position:fixed;
+    top: 0;
+    transition: top 0.3s;
+    z-index: 1;
+    background-color: var(--cosas-secondary);
 }
 
 .nav-item {
@@ -45,8 +57,8 @@ a, a:hover {
 
 /*_________________________HomeSection________________________*/
 
-#home {
-    height: 70vh;
+.home {
+    height: 75vh;
     background-color: var(--cosas-sapphires);
     display: flex;
     align-items:center;
@@ -54,7 +66,7 @@ a, a:hover {
     background-image: url(../static_files/assets/svg/2020.svg);
     background-repeat: no-repeat;
     background-position: center;
-    background-position-y: top;
+    background-position-y: 35%;
     background-size: calc(5vw + 100vh);
     background-attachment: fixed;
 }
@@ -71,6 +83,25 @@ a, a:hover {
     height: 25vh;
 }
 
+.dates, .news-updates {
+    overflow: hidden !important;
+}
+
+/*_________________________Section for contact________________*/
+#contact {
+    background-color: var(--cosas-sapphires);
+    padding-bottom: var(--section-bottom-padding);
+    background-image: url(../static_files/assets/svg/contact-us-flipped.svg), url(../static_files/assets/svg/contact-us.svg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: left, right;
+}
+
+#contactForm > button {
+    background-color: var(--cosas-sapphires);
+}
+
+
 /*_________________________WayPoints__________________________*/
 .wp-about, .wp-team, .wp-contact,
 .wp-intake-1, .wp-intake-1-l, .wp-intake-1-r
@@ -85,6 +116,9 @@ a, a:hover {
 /*__________________________BootStrap Override________________*/
 .btn-primary {
     background-color: var(--cosas-sapphires) !important;
-    box-shadow: none !important;
     border-color: var(--cosas-sapphires) !important;
+}
+
+.bg-primary {
+    background-color: var(--cosas-sapphires) !important;
 }

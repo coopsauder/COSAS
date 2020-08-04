@@ -1,13 +1,13 @@
 topnav:
   - name: COSAS
-    link: #
+    link: \#home
   - name: About Us
-    link: #
+    link: \#about
   - name: Co-op Intake
     link: #
   - name: Events
-    link: #
+    link: \#events
   - name: Our Team
-    link: #
+    link: \#team
   - name: Contact Us
-    link: #
+    link: \#contact
