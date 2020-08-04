@@ -1,0 +1,90 @@
+:root {
+    --text-size: 2vw;
+    --title-size: calc(3vw + 2vh);
+
+    --header-padding: 2rem;
+    --section-bottom-padding: 3rem;
+
+    --cosas-sapphires: #5DC8CD;
+    --cosas-grey: #535353;
+    --cosas-secondary: white;
+
+    --text-color-dark: black;
+    --text-color-light: white;
+
+}
+
+body, html {
+    scroll-behavior: smooth;
+    height: 100;
+    overflow-x: hidden;
+    background-color: var(--cosas-secondary);
+}
+
+/*_________________________Global____________________________*/
+
+
+
+/*_________________________NavSection________________________*/
+
+nav {
+    height: 5vh;
+}
+
+.nav-item {
+    padding: 0 2vw;
+}
+
+a, a:hover {
+    color: black
+}
+
+.nav-link:active, .nav-link:hover {
+    opacity: 0.5
+}
+
+/*_________________________HomeSection________________________*/
+
+#home {
+    height: 70vh;
+    background-color: var(--cosas-sapphires);
+    display: flex;
+    align-items:center;
+
+    background-image: url(../static_files/assets/svg/2020.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: top;
+    background-size: calc(5vw + 100vh);
+    background-attachment: fixed;
+}
+
+#welcome-title {
+    font-size: var(--title-size);
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+
+/*________________________News________________________*/
+
+.news {
+    background-color: var(--cosas-grey);
+    height: 25vh;
+}
+
+/*_________________________WayPoints__________________________*/
+.wp-about, .wp-team, .wp-contact,
+.wp-intake-1, .wp-intake-1-l, .wp-intake-1-r
+.wp-intake-2, .wp-intake-2-l, .wp-intake-2-r {
+    visibility: hidden;
+}
+
+.animate__fadeInLeft, .animate__fadeInRight, .animate__fadeIn {
+    visibility: visible;
+}
+
+/*__________________________BootStrap Override________________*/
+.btn-primary {
+    background-color: var(--cosas-sapphires) !important;
+    box-shadow: none !important;
+    border-color: var(--cosas-sapphires) !important;
+}

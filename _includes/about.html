@@ -1,0 +1,24 @@
+<div id="about" class="container-fluid justify-content-center">
+    <h1 class="display-4 text-center section-header">Learn more about COSAS</h1>
+    <div class="card card-body mx-auto col-md-8 col-sd-10 border-0 text-justify">
+        {% for content_hash in site.data.about.cosas %}
+        <!-- <img class="col-md-8 mx-auto mb-3" src="svg/undraw_team_page_pgpr.svg"> -->
+        <p>{{ content_hash.content }}</p>
+        <button class="btn col-md-3 mx-auto py-3 btn-primary" type="button" data-toggle="collapse"
+            data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Learn
+            More
+        </button>
+        {% endfor %}
+    </div>
+    <div class="collapse" id="collapseExample">
+        <div class="row justify-content-center text-justify">
+            {% for content in site.data.about.about %}
+            <div class="card card-body col-md-4 m-2">
+                <img class="img-card-top col-md-8 mx-auto mb-3" src='{{ content.img }}'>
+                <h4>{{ content.header }}</h4>
+                <p>{{ content.content }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

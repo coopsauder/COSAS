@@ -1,0 +1,32 @@
+cosas: 
+  - img: ../static_files/assets/svg/undraw_welcoming_xvuq.svg
+    content: >
+      COSAS, or the Co-op Student Association of Sauder, is a student-run organization that aims to serve the
+      general Co-op Community at Sauder. At its core, COSAS serves as a medium to
+      facilitate the building of networks and connections between Sauder students across differing cohorts,
+      specializations, and experiences. <br><br>
+
+      Take a look around our site to learn about some of our offerings. Click the button below to learn about
+      our mission statement and goals!
+
+about:
+  - header: Foster a sense of Co-op community
+    content: >
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    img: ../static_files/assets/svg/undraw_welcoming_xvuq.svg
+
+  - header: Create new opportunities to network and grow
+    content: >
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    img: ../static_files/assets/svg/undraw_welcoming_xvuq.svg
+
+  - header: Provide support and encouragement
+    content: >
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    img: ../static_files/assets/svg/undraw_welcoming_xvuq.svg
+
+  - header: Bring Co-op students closer together
+    content: >
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    img: ../static_files/assets/svg/undraw_welcoming_xvuq.svg
+  

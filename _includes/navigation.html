@@ -1,0 +1,16 @@
+<nav class="navbar navbar-expand-sm" id="navbar">
+    <button class="navbar-toggler border-light" type="button" data-toggle="collapse" data-target="#navbarToggler"
+        aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+        <img src="../static_files/assets/svg/home-icon.svg">
+    </button>
+
+    <div class="navbar-collapse collapse justify-content-center" id="navbarToggler">
+        <ul class="navbar-nav">
+            {% for nav in site.data.navigation.topnav %}
+            <li class="nav-item">
+                <a class="nav-link" href="{{ nav.link }}">{{ nav.name }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</nav>
