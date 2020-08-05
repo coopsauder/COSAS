@@ -71,7 +71,7 @@ a:active, a:hover {
     color: var(--cosas-grey);
 }
 
-.nav-item:active, .nav-item:hover {
+.nav-item:hover {
     color: white
 }
 
