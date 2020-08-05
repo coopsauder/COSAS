@@ -1,16 +1,15 @@
-<div id="events" class="container section">
-    <p class="display-4 text-center section-header">Our Events</p>
+<div id="initiatives" class="container section">
+    <p class="display-4 text-center section-header">Featured Initiatives</p>
     <ul class="list-unstyled card card-body">
         <li class="media">
             <div class="row media-body">
-                {% for post in site.posts %}
+                {% for initiative in site.initiatives %}
                 <img src='{{ site.baseurl }}/static_files/assets/svg/{{ post.image }}'
                     class="col-sm-6 col-md-2 img-thumbnail border-0" alt="...">
                 <div class="col-9 py-3">
-                    <h2>{{ post.title }}</h2>
-                    <h4>{{ post.event }}</h4>
-                    <p>{{ post.excerpt }}</p>
-                    <a href="{{ post.url }}" class="mx-auto btn btn-primary">Learn More</a>
+                    <h2>{{ initiative.title }}</h2>
+                    <p>{{ initiative.excerpt }}</p>
+                    <a href="{{ initiative.url }}" class="mx-auto btn btn-primary">Learn More</a>
                 </div>
                 {% endfor %}
             </div>

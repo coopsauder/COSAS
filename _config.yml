@@ -57,4 +57,3 @@ plugins:
 collections:
   initiatives:
     output: true 
-    permalink: /initiatives/:title

@@ -114,6 +114,17 @@ a, a:hover {
 }
 
 
+#footer {
+    height: 15vh
+
+}
+
+.footer-icon {
+    width: 3vh;
+    margin: auto 0.5vw
+}
+
+
 /*_________________________WayPoints__________________________*/
 .wp-about, .wp-team, .wp-contact,
 .wp-intake-1, .wp-intake-1-l, .wp-intake-1-r

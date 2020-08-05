@@ -3,8 +3,8 @@ topnav:
     link: \#home
   - name: About Us
     link: \#about
-  - name: Co-op Intake
-    link: #
+  - name: Initiatives
+    link: \#initiatives
   - name: Events
     link: \#events
   - name: Our Team

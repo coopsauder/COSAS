@@ -9,3 +9,10 @@ window.onscroll = function () {
     }
     prevScrollpos = currentScrollPos;
 }
+
+$(document).ready(function() {
+    $('#email').on('click', function() {
+        $('#email').popover('toggle')
+    })
+})
+    
