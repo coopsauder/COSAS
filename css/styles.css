@@ -27,7 +27,15 @@ body, html {
 }
 
 .section-header {
-    padding: 3vh 0 2vh 0 
+    padding: 2vh 0 2vh 0 
+}
+
+.scroll-section {
+    overflow: auto;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    flex-wrap: nowrap;
+    flex-flow: nowrap;
 }
 
 p {
