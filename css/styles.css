@@ -86,7 +86,7 @@ a:active, a:hover {
     display: flex;
     align-items:center;
     background-color: var(--cosas-secondary);
-    background-image: url(../static_files/assets/svg/2020.svg);
+    background-image: url('../static_files/assets/svg/2020.svg');
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: 85%;
@@ -113,7 +113,7 @@ a:active, a:hover {
 
 .about-divider {
     height: 15vh;
-    background-image: url(../static_files/assets/images/ubc.jpg);
+    background-image: url('../static_files/assets/images/ubc.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -125,7 +125,7 @@ a:active, a:hover {
 #contact {
     background-color: var(--cosas-sapphires);
     padding-bottom: var(--section-bottom-padding);
-    background-image: url(../static_files/assets/svg/contact-us-flipped.svg), url(../static_files/assets/svg/contact-us.svg);
+    background-image: url('../static_files/assets/svg/contact-us-flipped.svg'), url('../static_files/assets/svg/contact-us.svg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: left, right;
