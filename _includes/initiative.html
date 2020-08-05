@@ -2,13 +2,14 @@
     <p class="display-4 text-center section-header">Featured Initiatives</p>
     <div class="row justify-content-center">
         {% for initiative in site.initiatives %}
-        <div id="test" class="card card-body bg-dark col-md-5 m-2">
-            <a href="{{ initiative.url }}" class="d-flex">
-                <div class="card card-body">
-                <img class="img-card-top col-md-7 mx-auto"
-                    src='{{ site.baseurl }}/static_files/assets/svg/{{ initiative.image }}'>
-                <h4>{{ initiative.title }}</h4>
-                <p>{{ initiative.excerpt }}</p>
+        <div id="test" class="card card-body bg-primary col-md-5 m-2">
+            <a href="{{ initiative.url }}" class="card">
+                
+                    <img class="col-8 img-card-top mx-auto" src='{{ site.baseurl }}/static_files/assets/svg/{{ initiative.image }}'>                
+                
+                <div class="card-footer overflow-auto">
+                    <h4>{{ initiative.title }}</h4>
+                    <p>{{ initiative.excerpt }}</p>
                 </div>
             </a>
         </div>

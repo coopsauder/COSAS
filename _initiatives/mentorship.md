@@ -1,7 +1,7 @@
 ---
 layout: initiatives
 title: Community Mentorship Program
-image: about_networking.svg
+image: mentorship.svg
 ---
 
 COSAS menotrhsip program 

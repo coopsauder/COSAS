@@ -76,12 +76,13 @@ a, a:hover {
     background-image: url(../static_files/assets/svg/2020.svg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: calc(5vw + 100vh);
+    background-position-x: 85%;
+    background-size: calc(125vh);
     background-attachment: fixed;
 }
 
-#welcome-title {
-    font-size: var(--title-size);
+.welcome-title {
+    font-size: var(--text-size);
     text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
 }
 
@@ -99,7 +100,7 @@ a, a:hover {
 
 .about-divider {
     height: 15vh;
-    background-image: url(../static_files/assets/images/sauder.png);
+    background-image: url(../static_files/assets/images/ubc.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
