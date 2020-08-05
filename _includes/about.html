@@ -1,24 +1,27 @@
-<div id="about" class="container justify-content-center section">
-    <p class="display-4 text-center section-header">Learn more about COSAS</p>
-    <div class="card bg-transparent mx-auto border-0 text-left justify-content-center">
-        {% for content_hash in site.data.about.cosas %}
-        <p>{{ content_hash.content }}</p>
-        <button class="btn col-md-3 mx-auto py-3 btn-primary" type="button" data-toggle="collapse"
-            data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Learn
-            More
-        </button>
-        {% endfor %}
-    </div>
-    <div class="collapse" id="collapseExample">
-        <div class="row justify-content-center text-left pt-3">
-            {% for content in site.data.about.about %}
-            <div class="card card-body col-md-6 pb-2">
-                <img class="img-card-top col-md-6 mx-auto mb-3" src='{{ content.img }}'>
-                <h4>{{ content.header }}</h4>
-                <p>{{ content.content }}</p>
-            </div>
+<div id="about">
+    <div class="about-divider"></div>
+    <div class="container-fluid justify-content-center section">
+        <p class="display-4 text-center section-header">Who We Are</p>
+        <div class="container card bg-transparent border-0 text-left justify-content-center">
+            {% for content_hash in site.data.about.cosas %}
+            <p class="">{{ content_hash.content }}</p>
+            <button class="btn col-md-3 mx-auto py-3 btn-primary" type="button" data-toggle="collapse"
+                data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Learn
+                More
+            </button>
             {% endfor %}
         </div>
+        <div class="collapse container" id="collapseExample">
+            <div class="row justify-content-center text-left pt-4">
+                {% for content in site.data.about.about %}
+                <div class="card card-body col-md-5 m-2">
+                    <img class="img-card-top col-md-7 mx-auto" src='{{ content.img }}'>
+                    <h4>{{ content.header }}</h4>
+                    <p>{{ content.content }}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
     </div>
+    <div class="about-divider"></div>
 </div>
-<hr class="container pb-2">

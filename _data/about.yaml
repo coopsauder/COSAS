@@ -4,9 +4,7 @@ cosas:
       COSAS, or the Co-op Student Association of Sauder, is a student-run organization that aims to serve the
       general Co-op Community at Sauder. At its core, COSAS serves as a medium to
       facilitate the building of networks and connections between Sauder students across differing cohorts,
-      specializations, and experiences. <br><br>
-
-      Take a look around our site to learn about some of our offerings. Click the button below to learn about
+      specializations, and experiences. Take a look around our site to learn about some of our offerings. Click the button below to learn about
       our mission statement and goals!
 
 about:
@@ -15,18 +13,20 @@ about:
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
     img: ../static_files/assets/svg/about_collaborate.svg
 
-  - header: Create new opportunities to network and grow
+  - header: Bring Co-op students closer together
     content: >
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-    img: ../static_files/assets/svg/about_networking.svg
+    img: ../static_files/assets/svg/about_students.svg
+  
 
   - header: Provide support and encouragement
     content: >
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
     img: ../static_files/assets/svg/about_support.svg
 
-  - header: Bring Co-op students closer together
+  - header: Create opportunities to network
     content: >
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-    img: ../static_files/assets/svg/about_students.svg
+    img: ../static_files/assets/svg/about_networking.svg
+
   
