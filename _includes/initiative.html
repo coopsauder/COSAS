@@ -1,18 +1,17 @@
-<div id="initiatives" class="container section">
+<div id="initiatives" class="container-fluid section">
     <p class="display-4 text-center section-header">Featured Initiatives</p>
-    <ul class="list-unstyled card card-body">
-        <li class="media">
-            <div class="row media-body">
-                {% for initiative in site.initiatives %}
-                <img src='{{ site.baseurl }}/static_files/assets/svg/{{ post.image }}'
-                    class="col-sm-6 col-md-2 img-thumbnail border-0" alt="...">
-                <div class="col-9 py-3">
-                    <h2>{{ initiative.title }}</h2>
-                    <p>{{ initiative.excerpt }}</p>
-                    <a href="{{ initiative.url }}" class="mx-auto btn btn-primary">Learn More</a>
+    <div class="row justify-content-center ">
+        {% for initiative in site.initiatives %}
+        <div id="test" class="card card-body bg-dark col-md-5 m-2">
+            <a href="{{ initiative.url }}" class="d-flex">
+                <div class="card card-body">
+                <img class="img-card-top col-md-7 mx-auto"
+                    src='{{ site.baseurl }}/static_files/assets/svg/{{ initiative.image }}'>
+                <h4>{{ initiative.title }}</h4>
+                <p>{{ initiative.excerpt }}</p>
                 </div>
-                {% endfor %}
-            </div>
-        </li>
-    </ul>
+            </a>
+        </div>
+        {% endfor %}
+    </div>
 </div>
