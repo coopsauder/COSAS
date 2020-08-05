@@ -2,7 +2,7 @@
     <p class="display-4 text-center section-header">Featured Initiatives</p>
     <div class="row justify-content-center">
         {% for initiative in site.initiatives %}
-        <div id="test" class="card card-body bg-primary col-md-5 m-2">
+        <div id="test" class="initiatives load-hidden card card-body bg-primary col-md-5 m-2">
             <a href="{{ initiative.url }}" class="card">
                 
                     <img class="col-8 img-card-top mx-auto" src='{{ site.baseurl }}/static_files/assets/svg/{{ initiative.image }}'>                

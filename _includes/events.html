@@ -5,8 +5,8 @@
             <div class="row media-body">
                 {% for post in site.posts %}
                 <img src='{{ site.baseurl }}/static_files/assets/svg/{{ post.image }}'
-                    class="col-sm-6 col-md-2 img-thumbnail border-0" alt="...">
-                <div class="col-9 py-3">
+                    class="col-sm-6 col-md-2 img-thumbnail border-0 load-hidden events" alt="...">
+                <div class="col-9 py-3 load-hidden events">
                     <h2>{{ post.title }}</h2>
                     <h4>{{ post.event }}</h4>
                     <p>{{ post.excerpt }}</p>

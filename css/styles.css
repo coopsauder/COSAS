@@ -20,6 +20,10 @@ body, html {
     overflow-x: hidden;
 }
 
+.load-hidden {
+    visibility: hidden;
+}
+
 /*_________________________Global____________________________*/
 
 .section {
@@ -58,12 +62,22 @@ p {
     padding: 0 2vw;
 }
 
-a, a:hover {
-    color: black
+a, .nav-item:visited {
+    color: black;
+    text-decoration: none !important;
+}
+
+a:active, a:hover {
+    color: var(--cosas-grey);
+}
+
+.nav-item:active, .nav-item:hover {
+    color: white
 }
 
 .nav-link:active, .nav-link:hover {
-    opacity: 0.5
+    background-color: var(--cosas-sapphires);
+    opacity: 50;
 }
 
 /*_________________________HomeSection________________________*/
@@ -133,17 +147,6 @@ a, a:hover {
     margin: auto 0.5vw
 }
 
-/*_________________________WayPoints__________________________*/
-.wp-about, .wp-team, .wp-contact,
-.wp-intake-1, .wp-intake-1-l, .wp-intake-1-r
-.wp-intake-2, .wp-intake-2-l, .wp-intake-2-r {
-    visibility: hidden;
-}
-
-.animate__fadeInLeft, .animate__fadeInRight, .animate__fadeIn {
-    visibility: visible;
-}
-
 /*__________________________BootStrap Override________________*/
 .btn-primary {
     background-color: var(--cosas-sapphires) !important;
@@ -156,4 +159,8 @@ a, a:hover {
 
 .bg-dark {
     background-color: var(--cosas-grey) !important;
+}
+
+html.sr .load-hidden {
+    visibility: hidden;
 }
