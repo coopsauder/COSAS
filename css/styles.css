@@ -24,6 +24,9 @@ body, html {
     visibility: hidden;
 }
 
+.row:before, .row:after {
+    display: none !important;
+}
 /*_________________________Global____________________________*/
 
 .section {
