@@ -153,3 +153,7 @@ a, a:hover {
 .bg-primary {
     background-color: var(--cosas-sapphires) !important;
 }
+
+.bg-dark {
+    background-color: var(--cosas-grey) !important;
+}
