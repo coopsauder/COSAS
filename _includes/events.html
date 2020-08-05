@@ -3,16 +3,24 @@
     <ul class="list-unstyled card card-body">
         <li class="media">
             <div class="row media-body">
-            {% for post in site.posts %}
-            <img src='{{ site.baseurl }}/static_files/assets/svg/{{ post.image }}' class="col-sm-6 col-md-2 img-thumbnail border-0" alt="...">
-            <div class="col-9 py-3">
-                <h2>{{ post.title }}</h2>
-                <h4>{{ post.event }}</h4>
-                <p>{{ post.excerpt }}</p>
-                <a a href="{{ post.url }}" class="mx-auto btn btn-primary">Learn More</a>
-            </div>
-            {% endfor %}
+                {% for post in site.posts %}
+                <img src='{{ site.baseurl }}/static_files/assets/svg/{{ post.image }}'
+                    class="col-sm-6 col-md-2 img-thumbnail border-0" alt="...">
+                <div class="col-9 py-3">
+                    <h2>{{ post.title }}</h2>
+                    <h4>{{ post.event }}</h4>
+                    <p>{{ post.excerpt }}</p>
+                    <a a href="{{ post.url }}" class="mx-auto btn btn-primary">Learn More</a>
+                </div>
+                {% endfor %}
             </div>
         </li>
     </ul>
 </div>
+
+{% for initiative in site.initiatives %}
+<div class="col-9 py-3">
+    <h2>{{ initiative.title }}</h2>
+    <a a href="{{ initiative.url }}" class="mx-auto btn btn-primary">Learn More</a>
+</div>
+{% endfor %}
