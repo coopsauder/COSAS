@@ -71,10 +71,6 @@ a:active, a:hover {
     color: var(--cosas-grey);
 }
 
-.nav-item:hover {
-    color: white
-}
-
 .nav-link:active, .nav-link:hover {
     background-color: var(--cosas-sapphires);
     opacity: 50;

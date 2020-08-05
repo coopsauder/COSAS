@@ -1,8 +1,41 @@
-<div id="home" class="home load-hidden row d-flex align-items-center container-fluid mx-auto">
+<div id="home" class="home row d-flex align-items-center container-fluid mx-auto">
     <div class="col-1"></div>
     <div class="border-left bg-transparent col-md-4 col-sm-12">
         <p class="welcome-title">Welcome to the</p>
         <p class="display-1 text-uppercase font-weight-bold">cosas hub</p>
-        <p class="w-75 welcome-title">Your one-stop location for all news and information related to Co-op at UBC Sauder School of Business</p>
+        <p class="w-75 welcome-title">Your one-stop location for all news and information related to Co-op at UBC Sauder
+            School of Business</p>
+        <div class="card card-body w-75 bg-primary">
+            <div class="card card-body bg-white">
+                <p class="text-center">Want to be in the loop?</p>
+                <button data-toggle="modal" data-target="#newsletter" class="btn text-dark btn-primary">Sign up for our monthly newsletter!</button>
+            </div>
+        </div>
     </div>
 </div>
+</div>
+
+<div class="modal fade" id="newsletter" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-primary">
+          <h5 class="modal-title" id="exampleModalLabel">Newsletter Subscription</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <form>
+            <div class="form-group">
+              <label for="recipient-name" class="col-form-label">Email:</label>
+              <input type="text" class="form-control" id="recipient-name">
+            </div>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary">Enter</button>
+        </div>
+      </div>
+    </div>
+  </div>
