@@ -11,8 +11,8 @@ window.onscroll = function () {
 }
 
 $(document).ready(function() {
-    $('#email').on('click', function() {
-        $('#email').popover('toggle')
+    $('.email').on('click', function() {
+        $('.email').popover('toggle')
     })
 })
     
