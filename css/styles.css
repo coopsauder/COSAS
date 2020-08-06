@@ -173,6 +173,6 @@ html.sr .load-hidden {
     }
 
     .about-divider {
-        display:none !important;
+        visibility: hidden !important;
     }
 }
