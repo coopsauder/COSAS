@@ -15,7 +15,7 @@ $(document).ready(function() {
         $('.email').popover('toggle')
     })
 
-    ScrollReveal().reveal('.nav-link', { duration: 1000, interval: 300 })
+    ScrollReveal({ mobile:false }).reveal('.navigation', { duration: 1000, interval: 200 })
     ScrollReveal().reveal('.home', { duration: 5000 })
     ScrollReveal().reveal('.about-scene', { duration: 3000 })
     ScrollReveal().reveal('.about', { duration: 5000 })
@@ -25,4 +25,5 @@ $(document).ready(function() {
     ScrollReveal().reveal('.contact', { duration: 3000 })
 })
     
+
 

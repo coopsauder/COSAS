@@ -67,7 +67,7 @@ p {
     padding: 0 2vw;
 }
 
-a, .nav-item:visited {
+a, a:active, .nav-item:visited {
     color: black;
     text-decoration: none !important;
 }
