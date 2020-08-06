@@ -21,10 +21,6 @@ body, html {
     background-color: white;
 }
 
-.load-hidden {
-    visibility: hidden;
-}
-
 .row:before, .row:after {
     width:0px;
     height:0px;
@@ -176,3 +172,4 @@ html.sr .load-hidden {
         visibility: hidden !important;
     }
 }
+
