@@ -25,7 +25,8 @@ body, html {
 }
 
 .row:before, .row:after {
-    display: none !important;
+    width:0px;
+    height:0px;
 }
 /*_________________________Global____________________________*/
 
