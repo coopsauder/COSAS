@@ -1,8 +1,9 @@
 <div id="events" class="container section">
     <p class="display-4 text-center section-header">Our Events</p>
     <div class="list-unstyled card card-body">
-        <div class="card card-body ">
-            {% for post in site.posts %}
+        {% for post in site.posts %}
+        <div class="card card-body m-2">
+            
             <div class="row">
                 <img src='{{ site.baseurl }}/static_files/assets/svg/{{ post.image }}'
                     class="col-md-3 card-img-left border-0 load-hidden events" alt="...">
@@ -13,7 +14,8 @@
                     <a href="{{ post.url }}" class="mx-auto btn btn-primary">Learn More</a>
                 </div>
             </div>
-            {% endfor %}
+            
         </div>
+        {% endfor %}
     </div>
 </div>
