@@ -21,7 +21,8 @@
                                 src="../static_files/assets/images/{{ person.img }}">
                             <h5 class="modal-title text-center" id="exampleModalLongTitle">{{ person.name }}</h5>
                             <p>Position: {{ person.position }} <br>
-                                Specialization: {{ person.specialization }}</p>
+                                Specialization: {{ person.specialization }}<br>
+                                Year: {{ person.year }} </p>
                             <div class="container row mx-auto justify-content-center">
                                 <a class="email" data-placement="left" role="button" data-toggle="popover" title="Email"
                                     data-content="{{ person.email }}">
@@ -39,7 +40,8 @@
                         </button>
                     </div>
                     <div class="modal-body">
-                        {{ person.content }}
+                        <p><b>Experience: </b>{{ person.experience }}</p>
+                        <p>{{ person.content }}</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
