@@ -14,10 +14,10 @@
         <div class="collapse container" id="collapseExample">
             <div class="row justify-content-center text-left pt-4">
                 {% for content in site.data.about.about %}
-                <div class="card card-body col-md-5 m-2">
+                <div class="card card-body col-md-5 m-2 overflow-auto">
                     <img class="img-card-top col-md-7 mx-auto" src='{{ content.img }}'>
                     <h4>{{ content.header }}</h4>
-                    <p>{{ content.content }}</p>
+                    <p class="flex-wrap">{{ content.content }}</p>
                 </div>
                 {% endfor %}
             </div>

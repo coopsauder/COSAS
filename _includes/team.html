@@ -3,7 +3,7 @@
     <div class="w-75 flex-wrap mx-auto d-flex justify-content-center section">
         {% for person in site.data.team.team %}
         <div class="team load-hidden card col-md-2 col-sm-8 m-2">
-            <a type="button" data-toggle="modal" data-target="#{{ person.id }}">
+            <a data-toggle="modal" data-target="#{{ person.id }}">
                 <img class="card-img-top pt-3 rounded-circle" src="../static_files/assets/images/{{ person.img }}">
                 <div>
                     <p class="text-center"><b>{{ person.name }}</b><br> {{ person.position }}</p>
