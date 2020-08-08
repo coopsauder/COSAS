@@ -14,6 +14,9 @@ $(document).ready(function() {
     $('.email').on('click', function() {
         $('.email').popover('toggle')
     })
+    $('.team-email').on('click', function() {
+        $('.team-email').popover('toggle')
+    })
 
     ScrollReveal().reveal('.home', { duration: 3000 })
     ScrollReveal().reveal('.about-scene', { duration: 3000 })
