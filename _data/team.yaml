@@ -53,10 +53,10 @@ team:
     img: chloe.jpeg
 
   - id: jeanette
-    name: Jeanette Cheung
+    name: Jeanette Yuen
     position: Director of Initiatives
     email: mail2jeannette@gmail.com
-    linkedin: 
+    linkedin: https://www.linkedin.com/in/jeannetteyuen/
     experience:
     content:
     specialization: Finance

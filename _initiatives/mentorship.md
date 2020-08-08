@@ -1,7 +1,7 @@
 ---
 layout: initiatives
-title: Community Mentorship Program
-image: mentorship.svg
+title: Co-op Student's Mentorship Program (CSMP)
+image: csmp.svg
 ---
 
 COSAS menotrhsip program 
