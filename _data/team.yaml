@@ -52,15 +52,15 @@ team:
     specialization: Finance
     img: chloe.jpeg
 
-  - id: jeanette
-    name: Jeanette Yuen
+  - id: jeannette
+    name: Jeannette Yuen
     position: Director of Initiatives
     email: mail2jeannette@gmail.com
     linkedin: https://www.linkedin.com/in/jeannetteyuen/
     experience:
     content:
     specialization: Finance
-    img: jeanette.jpg
+    img: jeannette.jpg
 
   - id: mina
     name: Mina Nokhostin
