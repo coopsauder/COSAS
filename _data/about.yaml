@@ -10,18 +10,18 @@ cosas:
 about:
   - header: Foster a sense of Co-op community
     content: >
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      We aim to create stronger bonds between Co-op students at UBC Sauder School of Business. We aim to create a community of students who can support each other. 
     img: ../static_files/assets/svg/about_collaborate.svg
 
   - header: Bring Co-op students closer together
     content: >
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      How do we increase interaction between different cohorts of students? We want an environment where students feel safe and free to communicate with each other.
     img: ../static_files/assets/svg/about_students.svg
   
 
   - header: Provide support and encouragement
     content: >
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      COSAS will provide support services for Co-op students. In part
     img: ../static_files/assets/svg/about_support.svg
 
   - header: Create opportunities to network

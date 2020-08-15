@@ -154,6 +154,10 @@ a:active, a:hover {
     background-color: var(--cosas-sapphires) !important;
 }
 
+.btn-primary:hover, .btn:hover {
+    background-color: var(--cosas-grey)!important;
+}
+
 .bg-dark {
     background-color: var(--cosas-grey) !important;
 }
