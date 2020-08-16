@@ -5,17 +5,18 @@ cosas:
       general Co-op Community at Sauder. At its core, COSAS serves as a medium to
       facilitate the building of networks and connections between Sauder students across differing cohorts,
       specializations, and experiences. Take a look around our site to learn about some of our offerings. Click the button below to learn about
-      our mission statement and goals!
+      our four main goals and mission statement!
 
 about:
   - header: Foster a sense of Co-op community
     content: >
-      We aim to create stronger bonds between Co-op students at UBC Sauder School of Business. We aim to create a community of students who can support each other. 
+      We aim to create a community of students who can support each other. 
+      This means actively reaching out to the student body with new initiatives and Co-op resources
     img: ../static_files/assets/svg/about_collaborate.svg
 
   - header: Bring Co-op students closer together
     content: >
-      How do we increase interaction between different cohorts of students? We want an environment where students feel safe and free to communicate with each other.
+      Through various initiatives and events throughout the year, we hope to be able to engage as many students as possible. 
     img: ../static_files/assets/svg/about_students.svg
   
 

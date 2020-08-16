@@ -2,11 +2,11 @@
     <p class="display-4 text-center text-light section-header">Our Team</p>
     <div class="w-75 flex-wrap mx-auto d-flex justify-content-center section">
         {% for person in site.data.team.team %}
-        <div class="team load-hidden card col-md-2 col-sm-8 m-2">
+        <div class="w-75 team load-hidden card col-md-2 col-sm-8 m-2">
             <a data-toggle="modal" data-target="#{{ person.id }}">
                 <img class="card-img-top pt-3 rounded-circle" src="../static_files/assets/images/{{ person.img }}">
                 <div>
-                    <p class="text-center"><b>{{ person.name }}</b><br> {{ person.position }}</p>
+                    <p class="text-center pt-2"><b>{{ person.name }}</b><br> {{ person.position }}</p>
                 </div>
             </a>
         </div>
@@ -15,7 +15,7 @@
             aria-hidden="true">
             <div class="modal-dialog" role="document">
                 <div class="modal-content">
-                    <div class="modal-header text-center">
+                    <div class="modal-header text-center bg-primary">
                         <div class="w-100">
                             <img class="card-img-top col-6 pt-3 rounded-circle"
                                 src="../static_files/assets/images/{{ person.img }}">
@@ -40,10 +40,16 @@
                         </button>
                     </div>
                     <div class="modal-body">
-                        <p><b>Experience: </b><br>{{ person.experience }}</p>
                         <p>{{ person.content }}</p>
+                        <p><b>Experience: </b><br>{{ person.experience }}</p>
+                        <p><b>Hobbies:</b><br> {{ person.hobbies }}</p>
+                        <p><b>Interesting Fact:</b><br> {{ person.fact }}</p>
+                        <p><b>Why COSAS?:</b><br> {{ person.cosas }}</p>
+                        
+                        
+                        
                     </div>
-                    <div class="modal-footer">
+                    <div class="modal-footer bg-primary">
                         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
                     </div>
                 </div>

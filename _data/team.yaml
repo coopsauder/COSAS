@@ -1,83 +1,113 @@
 team:
   - id: lerry
     name: Lerry Zhang
-    position: President
+    position: President and VP Marketing
+    year: 3
     email: cosas.sauder@gmail.com
     linkedin: https://www.linkedin.com/in/zhang-lerry/
     experience: Business Analytics @ mPloy Solutions
-    content: >
-      Lorem ipsum dolor sit amet, ei brute voluptatum cum. Legere ignota ei mei, suas aperiam sea at. Duo brute graece pericula et, sed ne primis atomorum gubergren. Mei docendi oportere accusamus ut, suas feugait ut vim. Homero vulputate ei his.
-      Pri et amet molestie, ignota perpetua eam cu. Ne mei partem ubique tritani, mel nullam molestiae voluptaria et, te malis veritus mel. Nam no velit augue salutatus, vel vocibus suscipit et. Ea duo numquam verterem philosophia, atqui malorum sanctus usu eu. Id inani oportere referrentur vis. Ignota dolorum adversarium id vix, augue interesset ea usu.
-      Cu ius wisi malis posidonium, laudem definiebas ea has. Cu vim modo prima mediocrem. Per no noster persius, usu mazim epicurei expetenda in. Vix ea congue petentium, vis quas appellantur in, sed ex iriure fuisset iracundia. Eam in stet delicata, mel in quodsi conceptam. Nec civibus commune omittantur ea. Ut cum movet consetetur concludaturque, ne ius decore dicunt. 
-      Ei nominavi cu vis, in postea atomorum usu. Et erroribus comprehensam duo. Ne quo iusto corrumpit. At his semper legimus luptatum. Id ius inimicus dignissim. Tation munere commune no ius, mel malorum virtute ex. Nullam inimicus est in, vix ludus vulputate ea. Et persius docendi suscipit ius, pro ea oblique commune, propriae consectetuer ne eam. Pro et velit iriure utroque. Nec an putant quaestio.
     specialization: Marketing
     img: lerry.jpeg
+    content: >
+      Lerry is a 3rd year student, specializing in Marketing and Business Analytics, with a passion for brand management and consulting. She has done her first internship in a media consulting agency. This year, she worked as a marketing and brand strategist in an information technology company. 
+    hobbies: Fashion design/events; K-Pop Dancing
+    fact: Let me recommend good restaurants for you. I'll never let you down.
+    cosas:  It's an incredible team to work with. My experience here helped me make lifelong friends, give back to the community, and build up my own skills.
 
   - id: yewen
     name: Yewen Wang
     position: VP Finance
+    year: 3
     email: yewenwca@outlook.com
     linkedin: https://www.linkedin.com/in/yewen-wang/
     experience: Recruitment & Admission Assistant @ UBC Sauder School of Business
-    content: >
-      Lorem ipsum dolor sit amet, ei brute voluptatum cum. Legere ignota ei mei, suas aperiam sea at. Duo brute graece pericula et, sed ne primis atomorum gubergren. Mei docendi oportere accusamus ut, suas feugait ut vim. Homero vulputate ei his.
-      Pri et amet molestie, ignota perpetua eam cu. Ne mei partem ubique tritani, mel nullam molestiae voluptaria et, te malis veritus mel. Nam no velit augue salutatus, vel vocibus suscipit et. Ea duo numquam verterem philosophia, atqui malorum sanctus usu eu. Id inani oportere referrentur vis. Ignota dolorum adversarium id vix, augue interesset ea usu.
-      Cu ius wisi malis posidonium, laudem definiebas ea has. Cu vim modo prima mediocrem. Per no noster persius, usu mazim epicurei expetenda in. Vix ea congue petentium, vis quas appellantur in, sed ex iriure fuisset iracundia. Eam in stet delicata, mel in quodsi conceptam. Nec civibus commune omittantur ea. Ut cum movet consetetur concludaturque, ne ius decore dicunt. 
-      Ei nominavi cu vis, in postea atomorum usu. Et erroribus comprehensam duo. Ne quo iusto corrumpit. At his semper legimus luptatum. Id ius inimicus dignissim. Tation munere commune no ius, mel malorum virtute ex. Nullam inimicus est in, vix ludus vulputate ea. Et persius docendi suscipit ius, pro ea oblique commune, propriae consectetuer ne eam. Pro et velit iriure utroque. Nec an putant quaestio.
     specialization: Finance
     img: yewen.jpeg
+    content: >
+      Hi everyone! My name is Yewen, and I am in my third year at Sauder with a finance specialization. This summer, I worked at Robert H. Lee Graduate School as a recruitment & admission assistant. I’ll be starting my first Co-op term at WorkSafeBC’s Corporate Finance Department in September.  In my free time, I like playing the piano and dancing Latin! Last year, I received help and sharing from COSAS as an applicant; this year, I hope to work alongside my lovely teammates, creating an interactive and meaningful environment for Co-op fellows.
 
   - id: louie
     name: Louie Weng
     position: VP Initiatives
+    year: 3
     email: louieweng@outlook.com
     linkedin: https://www.linkedin.com/in/louie-weng/
     experience: Technology Consulting Intern @ Ernst & Young
-    content: >
-      Lorem ipsum dolor sit amet, ei brute voluptatum cum. Legere ignota ei mei, suas aperiam sea at. Duo brute graece pericula et, sed ne primis atomorum gubergren. Mei docendi oportere accusamus ut, suas feugait ut vim. Homero vulputate ei his.
-      Pri et amet molestie, ignota perpetua eam cu. Ne mei partem ubique tritani, mel nullam molestiae voluptaria et, te malis veritus mel. Nam no velit augue salutatus, vel vocibus suscipit et. Ea duo numquam verterem philosophia, atqui malorum sanctus usu eu. Id inani oportere referrentur vis. Ignota dolorum adversarium id vix, augue interesset ea usu.
-      Cu ius wisi malis posidonium, laudem definiebas ea has. Cu vim modo prima mediocrem. Per no noster persius, usu mazim epicurei expetenda in. Vix ea congue petentium, vis quas appellantur in, sed ex iriure fuisset iracundia. Eam in stet delicata, mel in quodsi conceptam. Nec civibus commune omittantur ea. Ut cum movet consetetur concludaturque, ne ius decore dicunt. 
-      Ei nominavi cu vis, in postea atomorum usu. Et erroribus comprehensam duo. Ne quo iusto corrumpit. At his semper legimus luptatum. Id ius inimicus dignissim. Tation munere commune no ius, mel malorum virtute ex. Nullam inimicus est in, vix ludus vulputate ea. Et persius docendi suscipit ius, pro ea oblique commune, propriae consectetuer ne eam. Pro et velit iriure utroque. Nec an putant quaestio.
     specialization: BUCS
-    year: 3
     img: louie.svg
+    content: >
+      Hi everyone! I'm so excited to be part of the 2020-2021 COSAS team. As VP Initiatives, I will be working closely with our amazing initiatives team to deliver on some pretty awesome events. 
+      My specialization is a Combined Major in Business and Computer Science. Like many of us in this specialization, there are so many options to take our skills and education. 
+      One of the biggest reasons I joined Co-op was for the extra guidance and support in finding where I want to take my career.
+      I've also had the amazing opportunity to kick-start COSAS's new website (this one). If there are any issues/suggestions/comments, please reach out to me. 
+    hobbies: Ultimate Frisbee; Anything developer related
+    fact: I almost got crushed by an industrial sized pressure fryer at KFC. 
+    cosas: >
+      I wanted to give back to my Co-op community and also meet more people outside of my regular social circles. COSAS was the perfect outlet for me to do so!
+      The environment is so accepting and we are given a lot of freedom to work with the Co-op Team to provide new support and outreach to Co-op students. 
+    
 
   - id: chloe
     name: Chloe Carron
     position: Director of Initiatives
+    year: 4
     email: chloecharlottecarron@gmail.com
     linkedin: https://www.linkedin.com/in/cccarron/
     experience: Associate Credit Officer @ RBC
-    content:
     specialization: Finance
     img: chloe.jpeg
+    content: >
+      Chloe is entering her 4th year at UBC with a specialization in Finance. 
+      Originally from Toronto, with a passion for travel and adventure she spent a term abroad studying at City University in London. 
+      She entered the Co-Op program in second year and has done two work terms with RBC in Private Banking and with the Commercial Credit Group. 
+      As a Student Partner with RBC, Chloe works closely with the Early Talent Team to enhance the experience for students across the organization, 
+      and ensure they have all the resources needed to start a successful career with RBC.
+    
 
   - id: jeannette
     name: Jeannette Yuen
     position: Director of Initiatives
+    year: 3
     email: mail2jeannette@gmail.com
     linkedin: https://www.linkedin.com/in/jeannetteyuen/
     experience: Wealth Management Intern @ ScotiaMcleod
-    content:
     specialization: Finance
     img: jeannette.jpg
-
+    content: >
+      My name is Jeannette Yuen, currently a third year student in Finance, 
+      and this year I am the Director of Initiatives for COSAS! I spent this past summer working at my first co-op job, 
+      spending time with my family and friends, and trying out all the new foods across the city!
+      A co-op event was what landed me my first work term, and I am super excited to plan and create the same opportunities for you all!
+    fact: I run a foodie account and I try everything from sweets to fried foods!
+    
   - id: mina
     name: Mina Nokhostin
     position: Marketing Director
+    year: 4
     email: mina.nakhostin1999@gmail.com
     linkedin: https://www.linkedin.com/in/minanakhostin/
     experience: Digital & Social Media Marketing @ UBC Sauder School of Business
-    content:
     specialization: Marketing
     img: mina.jpeg
-
+    content: >
+      Hi everyone! My name is Mina and I’m entering my 4th year at UBC Sauder. Being as it was always my passion, 
+      I’m specializing in Marketing and I’m currently on my first co-op term. 
+      I actually work for UBC Sauder’s Marketing and Communications department, 
+      so I have a thorough understanding of our school, students and the entire Sauder community. 
+      I’m excited to working with COSAS, and looking forward to this coming year!
+    
   - id: seyna
     name: Seyna Kim
-    position: Associate Marketing Director
+    position: Marketing Director
+    year: 3
     email: Seynakim@gmail.com
     linkedin: https://www.linkedin.com/in/seynakim/
     experience: Experience, Marketing, and Insights @ WorkSafeBC
-    content:
     specialization: Marketing
     img: seyna.jpeg
+    content: >
+      Hi! My name is Seyna and I am a third year marketing student at the UBC Sauder School of Business. 
+      Last year I did co-op at WorkSafeBC and a semester of exchange at NUS in Singapore - the highlight of my exchange was trying frog legs!
+      In my spare time, I love to go for coffee, do sudoku and explore the city.
+
+    

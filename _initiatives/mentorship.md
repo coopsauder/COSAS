@@ -24,6 +24,15 @@ The application process will be a **two-part** process:
 
 _Note: Based off demand and need for the academic year, we may need to shortlist applicants during the application process._
 
+#### Why join us as a mentor?
+
+We are so appreciative of our mentors committing their time to giving back to our Co-op community. As such, we hope that COSAS can provide some value back for you! 
+
+Here are some benefits of becoming a mentor:  
+* Expand your network
+* Free training on resume and interview tips that you can use to improve your own job-search skills
+* Leadership and mentorship training
+
 #### Mentor Application
 
 Please register to become a mentor using the form below. If for any reason there are any technical difficulties, the form link can also be found **_[here (Click for external link)](https://forms.gle/jtnUmZ74oz9ktSJg9)_**.
