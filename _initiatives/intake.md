@@ -6,7 +6,7 @@ image: application-support.svg
 
 COSAS is committed to providing as much support as we can for Co-op Applicants. We know how daunting the process can be and we want to help make it as painless as possible. This page will be used as a relative guide that builds upon the information released by the UBC Sauder Co-op Team. 
 
-![Support]({{ site.baseurl }}/static_files/assets/images/intake/support.jpg)
+<img class="w-100 h-100" src='{{ site.baseurl }}/static_files/assets/images/intake/support.jpg'/>
 
 * * *
 If you would like to learn more about UBC Sauder's Co-op Program, please visit  **_[@UBC Sauder Co-op](https://mybcom.sauder.ubc.ca/career-experience/co-op-program)_**  

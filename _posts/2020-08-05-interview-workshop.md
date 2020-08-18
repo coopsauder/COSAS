@@ -13,8 +13,7 @@ attendee-limit: TBD
 ---
 As part of our intake support initiative, COSAS will be offering Interview Workshops to support aspiring Co-op applicants. We will be going over some good habits during group interviews and providing some insight into your senior peers' experiences. The session is for students who have made it past the application stage of the intake process. 
 
-![Interview]({{ site.baseurl }}/static_files/assets/images/intake/interview.jpg)
-
+<img class="w-100 h-100" src='{{ site.baseurl }}/static_files/assets/images/intake/interview.jpg'/>
 
 More details will be released closer to October, when second-round results to the Co-op Application Process are released. 
 

@@ -14,7 +14,7 @@ attendee-limit: 50
 
 COSAS is excited to offer a new Co-op Intake Application Workshop for the academic year 2020-2021. The purpose of the application clinic is to assist potential incoming Co-op students through the process and answer any application-related questions they have. The session will focus on key elements of the Co-op Application Process, tips for making your application stand out, and suggestions for resumes. 
 
-![Application]({{ site.baseurl }}/static_files/assets/images/intake/application.jpg)
+<img class="w-100 h-100" src='{{ site.baseurl }}/static_files/assets/images/intake/application.jpg'/>
 
 ### Event Details
 

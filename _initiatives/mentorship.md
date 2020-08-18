@@ -10,7 +10,7 @@ Our goal is to support the new Co-op intake students during their onboarding yea
 
 Please read our information package, then register below.
 * * *
-![Mentorship](../static_files/assets/images/mentorship/mentor-group.jpg)
+<img class="w-100 h-100" src='../static_files/assets/images/mentorship/mentor-group.jpg'/>
 
 Right now we are seeking **mentors for the academic 2020-2021 year!** Please take some time to read over our information package before applying below. 
 
