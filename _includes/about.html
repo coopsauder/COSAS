@@ -4,7 +4,7 @@
         <p class="display-4 text-center section-header">Who We Are</p>
         <div class="container card bg-transparent border-0 text-left justify-content-center">
             {% for content_hash in site.data.about.cosas %}
-            <p class="col-md-9 text-center mx-auto">{{ content_hash.content }}</p>
+            <p class="col-md-9 text-justify mx-auto">{{ content_hash.content }}</p>
             <button class="btn col-md-3 mx-auto py-3 btn-primary" type="button" data-toggle="collapse"
                 data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Learn
                 More

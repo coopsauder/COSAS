@@ -43,7 +43,7 @@ Results
 
 ### COSAS Intake Events  
 
-We provide various events and services that are targeted to Co-op intake students. Please refer to then here: 
+We provide various events and services that are targeted to Co-op intake students. Please refer to them here: 
 
 <div>
   {% for post in site.tags.intake reversed %}
