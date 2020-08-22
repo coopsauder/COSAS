@@ -20,11 +20,10 @@
         <textarea class="form-control" type="text" placeholder="Questions, comments, concerns"
           name="entry.1648820328"></textarea>
       </div>
-      <button id="submit-form" type="button" class="btn btn-primary col-md-3 mx-auto py-3" data-toggle="modal"
+      <button id="submit-form" type="submit" class="btn btn-primary col-md-3 mx-auto py-3" data-toggle="modal"
         data-target="#exampleModal">
         Submit
       </button>
-
     </form>
 
     <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"></iframe>
@@ -40,7 +39,7 @@
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header bg-primary">
-        <h5 class="modal-title" id="exampleModalLabel">COSAS Alert</h5>
+        <h5 class="modal-title" id="exampleModalLabel">COSAS Thank You</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -49,6 +48,7 @@
         Thank you for reaching out to us, have a great day!
       </div>
       <div class="modal-footer">
+        <button id="clear-contact" type="button" class="text-dark btn btn-primary" data-dismiss="modal">Clear Form</button>
       </div>
     </div>
   </div>

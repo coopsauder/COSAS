@@ -26,6 +26,7 @@ $(document).ready(function() {
     ScrollReveal().reveal('.team', { duration: 2000, interval: 150 })
     ScrollReveal().reveal('.contact', { duration: 3000 })
 })
-    
 
-
+$("#clear-contact").click(function () {
+    $('#contactForm').trigger("reset")
+});
