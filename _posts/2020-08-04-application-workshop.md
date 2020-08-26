@@ -4,7 +4,7 @@ title:  "Intake Application Clinics"
 date:   2020-08-04 00:50:32 -0400
 tags: intake event
 image: svg/resume.svg
-event-status: Coming Soon
+event-status: Open
 event-link: reg-app
 event-date: September 8th, 2020
 location: Zoom
@@ -13,6 +13,8 @@ attendee-limit: 50
 ---
 
 COSAS is excited to offer a new Co-op Intake Application Workshop for the academic year 2020-2021. The purpose of the application clinic is to assist potential incoming Co-op students through the process and answer any application-related questions they have. The session will focus on key elements of the Co-op Application Process, tips for making your application stand out, and suggestions for resumes. 
+
+**Our first workshop will be on September 8th and pending demand, more will follow so make sure to check our social media for new updates!**
 
 <img class="w-100 h-100" src='{{ site.baseurl }}/static_files/assets/images/intake/application.jpg'/>
 
@@ -40,6 +42,6 @@ We have an exciting workshop dedicated to you, our Co-op applicants! More detail
 
 ### Registration
 
-<a href="#{{ page.event-link }}" class="disabled col-4 my-3 btn btn-primary">Coming Soon</a>
+Please register using the form below. If for any reason, there are technical issues, you can also reach the form **[here](https://forms.gle/nz7eByP4E45Fqgxn9)**.
 
-<!-- <iframe id="{{ page.event-link }}" class="container" src="https://docs.google.com/forms/d/e/1FAIpQLSeIislOFaxbgp_w3xd1SFMlfCeG_h27MkhtDMw1yZF6PAo_nA/viewform?embedded=true" frameborder="0" marginheight="0" height="600px" marginwidth="0">Loading…</iframe> -->
+<iframe class="w-100 container-fluid" src="https://docs.google.com/forms/d/e/1FAIpQLScriftnFqJkvHr4ArqccxiyYf3y9zeNvYoElvfL-AvcayleDQ/viewform?embedded=true" height="835" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
