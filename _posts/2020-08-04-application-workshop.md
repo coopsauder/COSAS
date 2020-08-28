@@ -6,7 +6,7 @@ tags: intake event
 image: svg/resume.svg
 event-status: Open
 event-link: reg-app
-event-date: September 8th, 2020
+event-date: September 8th, 2020 
 location: Zoom
 time: 6:00-7:00 PM PST
 attendee-limit: 50
@@ -38,10 +38,12 @@ We have an exciting workshop dedicated to you, our Co-op applicants! More detail
 5. Q&A
 6. Post-workshop resume peer-review
 
-**_Disclaimer. COSAS is not affiliated with the application process. We have no influence on any application decisions. We hope that you may find value in what worked for your peers, but in no way can we guarantee that your application will make it to the next round._**
+**Disclaimer:** COSAS is not affiliated with the application process. We have no influence on any application decisions. We hope that you may find value in what worked for your peers, but in no way can we guarantee that your application will make it to the next round.
 
 ### Registration
 
 Please register using the form below. If for any reason, there are technical issues, you can also reach the form **[here](https://forms.gle/nz7eByP4E45Fqgxn9)**.
+
+##### We will reach out to you about additional sessions if we are over the attendee limit for the Septemer 8th session. Please feel free to contact any of the initiatives execs if you have questions. 
 
 <iframe class="w-100 container-fluid" src="https://docs.google.com/forms/d/e/1FAIpQLScriftnFqJkvHr4ArqccxiyYf3y9zeNvYoElvfL-AvcayleDQ/viewform?embedded=true" height="835" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
