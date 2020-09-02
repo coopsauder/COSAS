@@ -38,7 +38,7 @@ Part 2: Group Interviews
 <!---->
 
 Results
-* Final acceptances released in Devember
+* Final acceptances released in the end of November
 
 
 ### COSAS Intake Events  
