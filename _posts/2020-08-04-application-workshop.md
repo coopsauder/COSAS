@@ -36,7 +36,6 @@ We have an exciting workshop dedicated to you, our Co-op applicants! More detail
 3. Resume formatting
 4. Application and Resume activities
 5. Q&A
-6. Post-workshop resume peer-review
 
 **Disclaimer:** COSAS is not affiliated with the application process. We have no influence on any application decisions. We hope that you may find value in what worked for your peers, but in no way can we guarantee that your application will make it to the next round.
 
