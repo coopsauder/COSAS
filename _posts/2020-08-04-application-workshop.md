@@ -4,7 +4,7 @@ title:  "Intake Application Clinics"
 date:   2020-08-04 00:50:32 -0400
 tags: intake event
 image: svg/resume.svg
-event-status: Open
+event-status: Full
 event-link: reg-app
 event-date: September 17th, 2020 
 location: Zoom
@@ -41,6 +41,4 @@ We have an exciting workshop dedicated to you, our Co-op applicants! More detail
 
 ### Registration
 
-Please register using the form below. If for any reason, there are technical issues, you can also reach the form **[here](https://forms.gle/nz7eByP4E45Fqgxn9)**.
-
-<iframe class="w-100 container-fluid" src="https://docs.google.com/forms/d/e/1FAIpQLScriftnFqJkvHr4ArqccxiyYf3y9zeNvYoElvfL-AvcayleDQ/viewform?embedded=true" height="835" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Unfortunately, but we are full for this event. If you would like any additional support, please refer to the BCC for student resources and Co-op application assitance! 

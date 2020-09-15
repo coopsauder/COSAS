@@ -12,7 +12,6 @@ COSAS is committed to providing as much support as we can for Co-op Applicants. 
 If you would like to learn more about UBC Sauder's Co-op Program, please visit  **_[@UBC Sauder Co-op](https://mybcom.sauder.ubc.ca/career-experience/co-op-program)_**  
 <br>
 Note: COSAS is a student-run organization. If you have any administrative questions about the Co-op Program, please direct them to the UBC Sauder Co-op Office
-
 * * *
 
 ### 2020-2021 Co-op Intake Timeline

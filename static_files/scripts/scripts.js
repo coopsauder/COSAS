@@ -18,13 +18,13 @@ $(document).ready(function() {
         $('.team-email').popover('toggle')
     })
 
-    ScrollReveal().reveal('.home', { duration: 3000 })
-    ScrollReveal().reveal('.about-scene', { duration: 3000 })
-    ScrollReveal().reveal('.about', { duration: 5000 })
-    ScrollReveal().reveal('.initiatives', { duration: 3000})
-    ScrollReveal().reveal('.events', { duration: 3000, interval: 250 })
+    ScrollReveal().reveal('.home', { duration: 2000 })
+    ScrollReveal().reveal('.about-scene', { duration: 2000 })
+    ScrollReveal().reveal('.about', { duration: 2000 })
+    ScrollReveal().reveal('.initiatives', { duration: 2000})
+    ScrollReveal().reveal('.events', { duration: 2000, interval: 250 })
     ScrollReveal().reveal('.team', { duration: 2000, interval: 150 })
-    ScrollReveal().reveal('.contact', { duration: 3000 })
+    ScrollReveal().reveal('.contact', { duration: 2000 })
 })
 
 $("#clear-contact").click(function () {
