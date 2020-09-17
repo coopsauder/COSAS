@@ -42,3 +42,5 @@ We have an exciting workshop dedicated to you, our Co-op applicants! More detail
 ### Registration
 
 Unfortunately, but we are full for this event. If you would like any additional support, please refer to the BCC for student resources and Co-op application assitance! 
+
+You can email cosasinitiatives@gmail.com if you would like a copy of our presentation slide deck after our session on the 17th. 
