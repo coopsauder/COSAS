@@ -41,7 +41,7 @@ Majority of activities are in the second term. You are expected to use a minimum
 
 #### Mentor Application
 
-**Application Deadline**: October 2nd, 2020 at 11:59PM PST 
+**Application Deadline**: October 9th, 2020 at 11:59PM PST 
 
 Please register to become a mentor using the form below. If for any reason there are any technical difficulties, the form link can also be found **_[here](https://forms.gle/jtnUmZ74oz9ktSJg9)_**.
 

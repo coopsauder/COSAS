@@ -4,7 +4,7 @@ title:  "Intake Application Clinics"
 date:   2020-08-04 00:50:32 -0400
 tags: intake event
 image: svg/resume.svg
-event-status: Full
+event-status: Over
 event-link: reg-app
 event-date: September 17th, 2020 
 location: Zoom
