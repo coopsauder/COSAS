@@ -1,7 +1,7 @@
 <div id="events" class="container section">
-    <p class="display-4 text-center section-header">Upcoming Events</p>
+    <p class="display-4 text-center section-header">Events</p>
     <div class="card card-body">
-        {% for post in site.posts reversed limit:5 %}
+        {% for post in site.posts limit:5 %}
 
         <div class="d-flex flex-wrap">
             <img src='{{ site.baseurl }}/static_files/assets/{{ post.image }}'
