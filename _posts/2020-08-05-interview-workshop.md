@@ -34,4 +34,4 @@ Event Date(s):
 
 ### Registration
 
-<iframe id="{{ page.event-link }}" class="container" src="https://forms.gle/bo91dviYM7GHGifJA" frameborder="0" marginheight="0" height="600px" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4y8dnJ-Chjf4JvZzJZPU2Sa-hf03BsRfBCb0E3MK5ZxU-vA/viewform?embedded=true" width="800" height="3464" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
