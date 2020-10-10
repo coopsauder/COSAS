@@ -28,9 +28,9 @@ This event will focus on preparing students for the group interview portion of t
 This application is your opportunity to RSVP for one of our interview workshops!
 Event Date(s): 
 
-* Wednesday October 14th, 2020 @ 5:30-7:00 PM PST  
-* Saturday October 17th, 2020 @ 9:00-10:30 AM PST  
-* Thursday October 29th, 2020 @ 6:30-8:00 PM PST  
+* Wednesday October 14th, 2020 @ 5:30-7:00 PM PST 90% Full  
+~~Saturday October 17th, 2020 @ 9:00-10:30 AM PST~~
+* Thursday October 29th, 2020 @ 6:30-8:00 PM PST 90% Full
 
 Deadline for registration is 48 hours before each event date (or when the event fills to capacity)
 

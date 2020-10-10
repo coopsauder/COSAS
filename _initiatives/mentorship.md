@@ -43,6 +43,4 @@ Majority of activities are in the second term. You are expected to use a minimum
 
 **Application Deadline**: October 9th, 2020 at 11:59PM PST 
 
-Please register to become a mentor using the form below. If for any reason there are any technical difficulties, the form link can also be found **_[here](https://forms.gle/jtnUmZ74oz9ktSJg9)_**.
-
-<iframe class="w-100 container-fluid" id="mentor-app" src="https://docs.google.com/forms/d/e/1FAIpQLSfBMmph0G6BeakKLzIE5EPNVKr6WF5LKGqM9ioYrxK53r92qw/viewform?embedded=true" height="835" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Thank you for all registrants. Applications are now closed. We will reach out in the coming weeks. 
