@@ -4,7 +4,7 @@ title:  "Intake Interview Workshops"
 date:   2020-08-04 00:50:32 -0400
 tags: intake event
 image: svg/interview.svg
-event-status: Registration Open
+event-status: FULL
 event-link: reg-interview
 event-date: October 14, October 17, October 29
 location: Zoom
@@ -28,12 +28,12 @@ This event will focus on preparing students for the group interview portion of t
 This application is your opportunity to RSVP for one of our interview workshops!
 Event Date(s): 
 
-* Wednesday October 14th, 2020 @ 5:30-7:00 PM PST 90% Full  
-~~Saturday October 17th, 2020 @ 9:00-10:30 AM PST~~
-* Thursday October 29th, 2020 @ 6:30-8:00 PM PST 90% Full
+~~Wednesday October 14th, 2020 @ 5:30-7:00 PM PST~~  
+~~Saturday October 17th, 2020 @ 9:00-10:30 AM PST~~  
+~~Thursday October 29th, 2020 @ 6:30-8:00 PM PST~~  
 
 Deadline for registration is 48 hours before each event date (or when the event fills to capacity)
 
 ### Registration
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4y8dnJ-Chjf4JvZzJZPU2Sa-hf03BsRfBCb0E3MK5ZxU-vA/viewform?embedded=true" width="800" height="3464" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+All spots for each workshop have been filled and registration is now over. If you are still interested in getting our presentation deck following our Oct 14th workshop, send an email to cosasinitiatives@gmail.com!
