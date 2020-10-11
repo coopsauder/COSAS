@@ -4,7 +4,7 @@ title:  "Intake Interview Workshops"
 date:   2020-08-04 00:50:32 -0400
 tags: intake event
 image: svg/interview.svg
-event-status: FULL
+event-status: Waitlist Open
 event-link: reg-interview
 event-date: October 14, October 17, October 29
 location: Zoom
@@ -42,3 +42,7 @@ All spots for each workshop have been filled and registration is now over. If yo
 
  
 For additional resources, please reach out to the BCC! Drop-in coaching is Monday-Thursday from 12-2PM PST and Tuesday from 7:30-9:30 AM PST. You can also book an appointment with a BCOM career coach on UBC Sauder COOL. 
+
+More resources:  
+**[BCC Interview Toolkit](https://mybcom.sauder.ubc.ca/career-experience/career-toolkits/interview-skills-toolkit)**  
+**[COOL Interview Stream](https://mybcom.sauder.ubc.ca/career-experience/career-resources/interviewstream)** 
