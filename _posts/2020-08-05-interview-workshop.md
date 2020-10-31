@@ -4,7 +4,7 @@ title:  "Intake Interview Workshops"
 date:   2020-08-04 00:50:32 -0400
 tags: intake event
 image: svg/interview.svg
-event-status: Waitlist Open
+event-status: Over
 event-link: reg-interview
 event-date: October 14, October 17, October 29
 location: Zoom
@@ -36,10 +36,7 @@ Deadline for registration is 48 hours before each event date (or when the event 
 
 ### Registration
 
-All spots for each workshop have been filled and registration is now over. If you are still interested in getting our presentation deck following our Oct 14th workshop, send an email to cosasinitiatives@gmail.com! You are also free to fill out this form to be waitlisted for one of our workshops.  
-
-**[Waitlist form link here](https://forms.gle/PSz1wJLB2XQNmwEN6)**
-
+All spots for each workshop have been filled and registration is now over. If you are still interested in getting our presentation deck following our Oct 14th workshop, send an email to cosasinitiatives@gmail.com!
  
 For additional resources, please reach out to the BCC! Drop-in coaching is Monday-Thursday from 12-2PM PST and Tuesday from 7:30-9:30 AM PST. You can also book an appointment with a BCOM career coach on UBC Sauder COOL. 
 
